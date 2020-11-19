@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">求是潮手机站</string>
+    <string name="ralxyz">RalXYZ</string>
+    <string name="welcome">Welcome to QSC Tech!</string>
+    <string name="exit">退潮</string>
+    <string name="avatarDescription">巧克力的头像</string>
+    <string name="course_name">后端开发从入门到删库</string>
+    <string name="course_type_name">潮人必修/自然类通识</string>
+    <string name="course_number">(2020-2021-1)-01EXCITED-2</string>
+    <string name="teacher">教师</string>
+    <string name="teacher_name">三个</string>
+    <string name="semester">学期</string>
+    <string name="semester_index">2020 秋冬</string>
+    <string name="score">2.7</string>
+    <string name="compare">低于99%潮人</string>
+    <string name="classroom">教室</string>
+    <string name="classroom_name">B217</string>
+    <string name="warning">退潮警告</string>
+</resources>
