@@ -18,4 +18,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/toScore"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="计分板"
+        app:layout_constraintBottom_toTopOf="@+id/toCourseDetails"
+        app:layout_constraintEnd_toEndOf="@+id/toCourseDetails"
+        app:layout_constraintStart_toStartOf="@+id/toCourseDetails" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
